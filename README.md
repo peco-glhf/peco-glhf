@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ryu ⚔️
 
-<!--
-**peco-glhf/peco-glhf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building AI Agents that actually work in real businesses.
 
-Here are some ideas to get you started:
+**Career so far:** sales → advertising → esports producer → AI Agent Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- 🤖 **[Alithea](https://github.com/peco-glhf/alithea)** — Voice AI app that turns conversations into structured insights (iOS / Python / Gemini)
+- ⏰ **[NeonClock](https://github.com/peco-glhf/NeonClock)** — Fullscreen neon clock for event stages (Android / Kotlin / Jetpack Compose)
+- ✨ **[ie](https://github.com/peco-glhf/ie)** — Inspiration Eternal (TypeScript)
+
+## Tech Stack
+
+`Python` `TypeScript` `Kotlin` `Swift` `Google Cloud` `Gemini` `Jetpack Compose`
+
+## Links
+
+- ✍️ [Zenn](https://zenn.dev/peco6)
+- 🐦 [X / Twitter](https://twitter.com/peco_glhf)
+
+---
+
+*LoL🥉 but nosurrender.*
